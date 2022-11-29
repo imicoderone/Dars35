@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mi\\source\\repos\\Dars35\\Dars35\\Dars35.csproj": {}
+    "C:\\Users\\Sheikh77\\Desktop\\Dars35\\Dars35\\Dars35.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mi\\source\\repos\\Dars35\\Dars35\\Dars35.csproj": {
+    "C:\\Users\\Sheikh77\\Desktop\\Dars35\\Dars35\\Dars35.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mi\\source\\repos\\Dars35\\Dars35\\Dars35.csproj",
+        "projectUniqueName": "C:\\Users\\Sheikh77\\Desktop\\Dars35\\Dars35\\Dars35.csproj",
         "projectName": "Dars35",
-        "projectPath": "C:\\Users\\mi\\source\\repos\\Dars35\\Dars35\\Dars35.csproj",
-        "packagesPath": "C:\\Users\\mi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mi\\source\\repos\\Dars35\\Dars35\\obj\\",
+        "projectPath": "C:\\Users\\Sheikh77\\Desktop\\Dars35\\Dars35\\Dars35.csproj",
+        "packagesPath": "C:\\Users\\Sheikh77\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sheikh77\\Desktop\\Dars35\\Dars35\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sheikh77\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://repo.infranet.co/repository/nuget-technology/": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -46,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
